@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+# al-folio
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Joseph
 middle_name: Alec
@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Tales from the lab... # blog_name will be displayed in your blog page
-blog_description: What happens in the lab, stays in the lab!
+blog_description: Thoughts and tidbits.
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 

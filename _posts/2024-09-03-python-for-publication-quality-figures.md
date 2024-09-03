@@ -123,7 +123,7 @@ plt.show()
 <!-- ![[fig_v2.png]] -->
 {% include figure.liquid loading="eager" path="assets/img/240903/fig_v2.jpg" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
 
-The main usage is to import the package using `import scienceplots` and to direct Matplotlib to use the default style with `plt.style.use(["science"])` (you can include multiple styles here to combine features - see [here](<plt.style.use(['science'])>)). With this simple change, the figure already looks a lot more professional.
+The main usage is to import the package using `import scienceplots` and to direct Matplotlib to use the default style with `plt.style.use(["science"])` (you can include multiple styles here to combine features - see [here](https://github.com/garrettj403/SciencePlots/wiki/Gallery)). With this simple change, the figure already looks a lot more professional.
 
 Some other minor changes are to override the default Matplotlib colours with colours from the [Tableau palette](https://matplotlib.org/stable/gallery/color/named_colors.html#tableau-palette). SciencePlots also includes a more aesthetically pleasing colour palette - just remove the colour specification (`c=tab:x`) from the `ax.plot` lines.
 

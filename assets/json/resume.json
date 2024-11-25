@@ -64,6 +64,13 @@
   ],
   "publications": [
     {
+      "name": "Superconducting enegry gap structure of CsV3Sb5 from magnetic penetration depth measurements",
+      "publisher": "Journal of Physics: Condensed Matter",
+      "releaseDate": "2025-02-10",
+      "url": "https://iopscience.iop.org/article/10.1088/1361-648X/ad8d2b",
+      "summary": "Experimental determination of the structure of the superconducting order parameter in the kagome lattice compound CsV3Sb5 is an essential step towards understanding the nature of the superconducting pairing in this material. Here we report measurements of the temperature dependence of the in-plane magnetic penetration depth, λ(T), in crystals of CsV3Sb5 down to ~60 mK. We find that λ(T) is consistent with a fully-gapped state but with significant gap anisotropy. The magnitude of the gap minima are in the range ~0.2–0.3 Tc   for the measured samples, markedly smaller than previous estimates. We discuss different forms of potential anisotropy and how these can be linked to the V and Sb Fermi surface sheets. We highlight a significant discrepancy between the calculated and measured values of λ(T=0) which we suggest is caused by spatially suppressed superconductivity."
+    },
+    {
       "name": "Observation of the Non-Linear Meissner Effect",
       "publisher": "Nature Communications",
       "releaseDate": "2022-03-07",

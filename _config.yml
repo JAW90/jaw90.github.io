@@ -128,8 +128,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Tales from the lab... # blog_name will be displayed in your blog page
-blog_description: Thoughts and tidbits.
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: Thoughts and tidbits. Possibly useful?
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 

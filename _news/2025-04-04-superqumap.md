@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presenting at SuperQUMAP Conference 2025
-date: 2024-04-04 00:00:00-0000
+date: 2025-04-04 00:00:00-0000
 inline: true
 related_posts: false
 ---

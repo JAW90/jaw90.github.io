@@ -13,16 +13,16 @@ Last week, I had the great pleasure to attend the European COST Action CA21144 [
 
 {% include figure.liquid loading="eager" path="assets/img/250512/castle.jpg" title="Chateau Liblice" class="img-fluid rounded z-depth-1" width=800 %}
 
-{% include figure.liquid loading="eager" path="assets/img/250512/garden.jpg" title="Chateau Liblice" class="img-fluid rounded z-depth-1" width=800 %}
+{% include figure.liquid loading="eager" path="assets/img/250512/garden.jpg" title="Chateau Gardens" class="img-fluid rounded z-depth-1" width=800 %}
 
-{% include figure.liquid loading="eager" path="assets/img/250512/gate.jpg" title="Chateau Liblice" class="img-fluid rounded z-depth-1" width=800 %}
+{% include figure.liquid loading="eager" path="assets/img/250512/gate.jpg" title="Garden Gate" class="img-fluid rounded z-depth-1" width=800 %}
 
 The conference covered a broad spectrum of novel superconductivity, unusual topological states, nanostructured devices and exotic magnetism. I was very pleased to be invited to share [our results](https://arxiv.org/abs/2412.04098) on vortex behaviour in the ferromagnetic superconductor EuFe$$_2$$(As$$_{1-x}$$P$$_x$$)$$_2$$. I was also very pleased to learn, on the day before my presentation, that our manuscript results was accepted for publication in [Communications Materials](https://www.nature.com/commsmat/)! The conference was also expertly organised by the local members of the COST Action group. Thank you, organisers!
 
 In addition to the science, I had a great time having engaging discussions, enjoying some very tasty food, a very generous wine "tasting" (more like "drinking") and introducing some uninitiated to the wonders of Scotch whisky. Hope to see you guys again soon! 
 
-{% include figure.liquid loading="eager" path="assets/img/250512/dinner.jpg" title="Chateau Liblice" class="img-fluid rounded z-depth-1" width=800 %}
+{% include figure.liquid loading="eager" path="assets/img/250512/dinner.jpg" title="Conference Dinner" class="img-fluid rounded z-depth-1" width=800 %}
 
-{% include figure.liquid loading="eager" path="assets/img/250512/selfie.jpg" title="Chateau Liblice" class="img-fluid rounded z-depth-1" width=800 rotation=180 %}
+{% include figure.liquid loading="eager" path="assets/img/250512/selfie3.jpg" title="Conference Selfie" class="img-fluid rounded z-depth-1" width=800%}
 
 

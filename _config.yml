@@ -128,8 +128,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog # blog_name will be displayed in your blog page
-blog_description: Thoughts and tidbits. Possibly useful?
+blog_name: My Blog # blog_name will be displayed in your blog page
+blog_description: A collection of (hopefully) useful ideas and some of my personal reflections.
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
@@ -285,8 +285,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["python", "figures", "travel", "conference"] # these tags will be displayed on the front page of your blog
+display_categories: ["python", "publications"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

@@ -58,7 +58,7 @@ plt.show()
 
 <!-- ![[assets/img/250723/figure_v1.png]] -->
 
-{% include figure.liquid loading="eager" path="assets/img/250723/figure_v1.jpg" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
+{% include figure.liquid loading="eager" path="assets/img/250723/figure_v1.png" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
 
 I have used one of the styles, `seaborn-v0_8`, that is included with `matplotlib`. This does quite a lot of the styling and formatting for you. Here we have two data series, one showing a faster increase of displacement, $$y$$, with time, $$t$$. This is a perfectly adequate graph and conveys the information well, particularly for a specialist audience. However, we can improve this significantly to make it more accessible to a general audience.
 
@@ -138,7 +138,7 @@ plt.show()
 
 <!-- ![[assets/img/250723/figure_v2.png]] -->
 
-{% include figure.liquid loading="eager" path="assets/img/250723/figure_v2.jpg" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
+{% include figure.liquid loading="eager" path="assets/img/250723/figure_v2.png" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
 
 Beginning with the `default` matplotlib style, many changes can be made by updating parameters in `rcParams`:
 - Removed the spines from the top and right of the figure

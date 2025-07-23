@@ -62,7 +62,7 @@ plt.show()
 
 <!-- ![[assets/img/240903/fig_v1.png]] -->
 
-{% include figure.liquid loading="eager" path="assets/img/240903/fig_v1.jpg" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
+{% include figure.liquid loading="eager" path="assets/img/240903/fig_v1.png" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
 
 As a stand in for real data, I have generated some random numbers following a relationship between the two quantities $$\alpha$$ and $$\beta$$ such that $$\beta \propto \alpha$$, with $$\alpha$$ as our independent variable and $$\beta$$ our dependent variable (blue circles). The data $$\beta(\alpha)$$ are fitted with a straight line, shown in red.
 
@@ -121,7 +121,7 @@ plt.show()
 ```
 
 <!-- ![[fig_v2.png]] -->
-{% include figure.liquid loading="eager" path="assets/img/240903/fig_v2.jpg" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
+{% include figure.liquid loading="eager" path="assets/img/240903/fig_v2.png" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
 
 The main usage is to import the package using `import scienceplots` and to direct Matplotlib to use the default style with `plt.style.use(["science"])` (you can include multiple styles here to combine features - see [here](https://github.com/garrettj403/SciencePlots/wiki/Gallery)). With this simple change, the figure already looks a lot more professional.
 
@@ -209,7 +209,7 @@ plt.show()
 ```
 
 <!-- ![[fig_v3.png]] -->
-{% include figure.liquid loading="eager" path="assets/img/240903/fig_v3.jpg" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
+{% include figure.liquid loading="eager" path="assets/img/240903/fig_v3.png" title="example image" class="img-fluid rounded z-depth-1" width=600 %}
 
 `plot_params` is a dictionary containing the new values for the specified parameters (key:value pairs). These values are updated using `plt.rcParams.update` and passing in the dictionary.
 

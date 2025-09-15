@@ -36,6 +36,16 @@
     {
       "name": "School of Physics, University of Bristol",
       "location": "Bristol, United Kingdom",
+      "position": "Visiting Research Associate",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "-",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "School of Physics, University of Bristol",
+      "location": "Bristol, United Kingdom",
       "position": "Postdoctoral Research Associate",
       "url": "",
       "startDate": "2018-10-01",
@@ -63,6 +73,12 @@
     }
   ],
   "publications": [
+    {
+      "name": "Breakdown of the critical state in the ferromagnetic superconductor EuFe2(As1-xPx)2",
+      "publisher": "arXiv",
+      "releaseDate": "2025-09-15",
+      "url": "https://arxiv.org/abs/2509.10339"
+    },
     {
       "name": "Magnetically controlled vorted dynamics in a ferromagnetic superconductor",
       "publisher": "Communications Materials",

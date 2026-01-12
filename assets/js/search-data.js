@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-python-figures-for-non-technical-presentations",
+        },{id: "post-iss2025-amp-nagasaki",
+        
+          title: "ISS2025 &amp; Nagasaki",
+        
+        description: "Attending the 38th International Symposium on Superconductivity, December 2025, Nagasaki, Japan",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nagasaki/";
+          
+        },
+      },{id: "post-python-figures-for-non-technical-presentations",
         
           title: "Python Figures for Non-technical Presentations",
         
@@ -116,6 +127,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-am-on-my-way-to-nagasaki-where-i-will-be-attending-the-38th-international-symposium-on-superconductivity-iss2025-i-am-very-happy-to-have-been-invited-and-i-will-be-presenting-our-latest-work-on-eufe-2-as-1-x-p-x-2-pc5-03-inv",
           title: 'I am on my way to Nagasaki where I will be attending the...',
+          description: "",
+          section: "News",},{id: "news-i-am-very-happy-that-our-paper-breakdown-of-the-critical-state-in-the-ferromagnetic-superconductor-eufe2-as1-xpx-2-has-been-published-in-superconductor-science-and-technology-what-a-great-way-to-see-out-2025",
+          title: '🥳 I am very happy that our paper “Breakdown of the critical state...',
           description: "",
           section: "News",},{
         id: 'social-email',
